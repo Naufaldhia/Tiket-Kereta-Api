@@ -89,7 +89,7 @@
               - {{ date('Y') }}
               @endif
               &nbsp; All rights reserved • by
-              <a href="https://github.com/adhiariyadi/" target="_blank">Adhi Ariyadi</a>.
+              <a href="https://github.com/Naufaldhia" target="_blank">Naufal Dhia</a>.
             </span>
           </div>
         </div>
@@ -161,7 +161,7 @@
           - {{ date('Y') }}
           @endif
           &nbsp; All rights reserved • by
-          <a href="https://github.com/adhiariyadi/" target="_blank">Adhi Ariyadi</a>.
+          <a href="https://github.com/Naufaldhia" target="_blank">Naufal Dhia</a>.
         </span>
       </div>
     </div>
