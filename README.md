@@ -23,7 +23,7 @@ Halaman Dashboard Admin <br>
 
 ## Release Date
 
-**Release date : 28 Apr 2020**
+**Release date : 28 Apr 2025**
 
 > Ticket merupakan project open source yang dibuat oleh Naufal Dhia. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
 
