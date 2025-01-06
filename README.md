@@ -14,6 +14,13 @@ Web Ticket yang dibuat oleh <a href="https://github.com/Naufaldhia"> Naufal Dhia
 -   Pemesanan Ticket
 -   Dan lain-lain
 
+## Screenshot
+
+Halaman Utama <br>
+<img src="/public/img/TampilanLogin.jpg"><br>
+Halaman Dashboard Admin <br>
+<img src="/public/img/TampilanAwalHome.jpg">
+
 ## Release Date
 
 **Release date : 28 Apr 2020**
@@ -54,7 +61,7 @@ DB_PASSWORD=
 
 ```bash
 php artisan key:generate
-php artisan migrate --seed
+php artisan migrate
 ```
 
 4. **Jalankan website**
