@@ -4,8 +4,8 @@ Ketua : NAUFAL DHIA (2303310560)
 
 Anggota: 
 Muhammad Fazli (Membuat Dokumen Software Requirement)
-Muammar Khadafi (Tidak ada Kerja)
-Olivia Irby (Tidak ada Kerja)
-Karel Jody (Tidak ada Kerja)
+Muammar Khadafi ()
+Olivia Irby ()
+Karel Jody ()
 
 Link Github: https://github.com/Naufaldhia/Tiket-Kereta-Api.git
