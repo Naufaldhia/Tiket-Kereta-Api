@@ -1,0 +1,11 @@
+Nama Anggota:
+Kelompok Bot
+Ketua : NAUFAL DHIA (2303310560)
+
+Anggota: 
+Muhammad Fazli (Membuat Dokumen Software Requirement)
+Muammar Khadafi (Tidak ada Kerja)
+Olivia Irby (Tidak ada Kerja)
+Karel Jody (Tidak ada Kerja)
+
+Link Github: https://github.com/Naufaldhia/Tiket-Kereta-Api.git
